@@ -34,3 +34,6 @@
 - Don't use my black picture for your profile. 
 - Music widget is for mpd/mpc, I don't use spotify, I don't care.
 - Made for 1920x1080 displays only.
+
+### Preview
+[To Link](https://github.com/TerryFunggg/my_hyprland)
